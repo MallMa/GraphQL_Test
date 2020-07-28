@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "90QUnG2Fia+P4GLM835ljWYhL4yrUrziJ86UTJA8MMSWKAjqW8MWeSAUKa+0dlkTDljL2bjWcPo2K8ya/QKHgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mmallinger\\Documents\\repos\\GraphQL_Test\\GraphQLDemo\\GraphQLDemo\\GraphQLDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmallinger\\.nuget\\packages\\graphql\\3.0.0-preview-1490\\graphql.3.0.0-preview-1490.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\graphql-parser\\5.0.1\\graphql-parser.5.0.1.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\graphql.server.core\\3.5.0-alpha0046\\graphql.server.core.3.5.0-alpha0046.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\graphql.server.transports.aspnetcore\\3.5.0-alpha0046\\graphql.server.transports.aspnetcore.3.5.0-alpha0046.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\graphql.server.transports.aspnetcore.systemtextjson\\3.5.0-alpha0046\\graphql.server.transports.aspnetcore.systemtextjson.3.5.0-alpha0046.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\graphql.server.ui.playground\\3.5.0-alpha0046\\graphql.server.ui.playground.3.5.0-alpha0046.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\graphql.systemtextjson\\3.0.0-preview-1490\\graphql.systemtextjson.3.0.0-preview-1490.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\system.reactive.core\\4.0.0\\system.reactive.core.4.0.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\system.reactive.linq\\4.0.0\\system.reactive.linq.4.0.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\mmallinger\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
